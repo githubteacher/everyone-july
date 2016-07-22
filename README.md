@@ -1,5 +1,7 @@
 # GitHub for Everyone
 
+[![Join the chat at https://gitter.im/githubteacher/everyone-july](https://badges.gitter.im/githubteacher/everyone-july.svg)](https://gitter.im/githubteacher/everyone-july?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Welcome to the GitHub for Everyone class. 
 
 ### Facilitators
