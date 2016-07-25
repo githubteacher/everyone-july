@@ -17,7 +17,7 @@ Your trainers for today will be:
 - Sign up for or sign in to an account on GitHub.com
 - Double check you have installed [GitHub Desktop](https://desktop.github.com/)
 
-### Talk to Us! :comment:
+### Talk to Us!
 
 [![Join the chat at https://gitter.im/githubteacher/everyone-july](https://badges.gitter.im/githubteacher/everyone-july.svg)](https://gitter.im/githubteacher/everyone-july?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
