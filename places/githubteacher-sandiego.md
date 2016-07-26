@@ -5,6 +5,7 @@
 
 ### Places to Eat
 - City Tacos
+- The Wharf
 
 ### Places to Go
 - Balboa Park
