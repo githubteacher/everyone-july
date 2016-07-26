@@ -2,6 +2,7 @@
 
 ### Fun Facts
 - The Queen Mary is docked here.
+- has worlds largest mural
 
 ### Places to Eat
 - Nomad Bistro
