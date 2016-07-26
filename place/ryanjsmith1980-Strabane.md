@@ -16,5 +16,8 @@
 - Masala
 
 ### Places to Go
+- The Alley Theatre
+- Dicey Rileys
 
 ### Places to Avoid
+- The Head of the Town
