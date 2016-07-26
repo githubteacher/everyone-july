@@ -1,7 +1,7 @@
 ### NI
 
 ### Fun Facts
-- We like to drink and fight 
+- We like to drink and fight
 
 ### Places to Eat
 - Big Als Buster Burger Joint
