@@ -5,7 +5,7 @@
 
 ### Places to eat
 - Oak and rye (gourmet pizza)
-
+- Los gatos cafe
 
 ### Places to go
 
