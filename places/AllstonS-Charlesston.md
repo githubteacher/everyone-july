@@ -10,3 +10,4 @@
 -Charlestown Landing
 
 ### Places to Avoid
+-McDonald's
