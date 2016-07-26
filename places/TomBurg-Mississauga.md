@@ -10,4 +10,4 @@ Sushi to GO
 Niagra Falls about 80 minutes drive
 
 ### Places to Avoid
-ALll good
+All good
