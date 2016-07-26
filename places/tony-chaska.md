@@ -6,6 +6,7 @@
 
 ### Places to Eat
 - Home
+- Other
 
 ### Places to Go
 - Florida
