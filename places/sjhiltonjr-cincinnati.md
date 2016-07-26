@@ -5,6 +5,7 @@
 
 ### Places to Eat
 - Eli' BBQ
+- Precinct Steakhouse
 
 ### Places to Go
 - Kings Island Amusement Park
