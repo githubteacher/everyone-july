@@ -7,5 +7,6 @@
 -Sublime
 
 ### Places to Go
+-Charlestown Landing
 
 ### Places to Avoid
