@@ -2,6 +2,7 @@
 
 ### Fun Facts
 Lots of comedians here :)
+me - one of them ;) come join rockstars ;)
 
 ### Places to Eat
 - Aasai
@@ -10,7 +11,7 @@ Lots of comedians here :)
 
 ### Places to Go
 - Beach
-
+- hmmmm /test
 
 ### Places to Avoid
 Beach ;)

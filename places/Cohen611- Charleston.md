@@ -8,6 +8,7 @@ Holy City
 ### Places to eat
 
 Hyman's
+Nigel's
 
 ### Places to Go
 

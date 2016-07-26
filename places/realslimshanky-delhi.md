@@ -6,5 +6,6 @@
 #### Pind Balichi
 
 ### Places To GO
-
-### Places To Avoid
+#### Lal Kila
+#### Taj Mahel
+#### hai na
