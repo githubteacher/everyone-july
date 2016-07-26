@@ -2,6 +2,7 @@
 
 ### Fun Facts
 Lots of comedians here :)
+me - one of them ;) come join rockstars ;)
 
 ### Places to Eat
 - Aasai
