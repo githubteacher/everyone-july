@@ -8,6 +8,7 @@
 
 ### Places to go
 - Ulster American Folk Park
+- Golf Club
 
 ### Places to avoid
 - Ruby's Night Club
