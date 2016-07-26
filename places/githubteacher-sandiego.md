@@ -10,6 +10,7 @@
 ### Places to Go
 - Balboa Park
 - Coronado Island
+- The San Diego Zoo (we have Pandas)
 
 ### Places to Avoid
 - Encontro
