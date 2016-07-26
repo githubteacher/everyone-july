@@ -8,5 +8,7 @@
 - Creme de la Crepe
 
 ### Places to Go
+- Aquarium of the Pacific
+- The Beach!!
 
 ### Places to Avoid
