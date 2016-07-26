@@ -11,7 +11,8 @@ Mr. Taco: Mexican restaurant located in San Marcos, about 40 miles NE of downtow
 - various beaches up and down the coast of San Diego county.
 
 ### Places to Avoid
-***bad neighborhoods***
+Richmar neighborhood
+Canyons near the border
 
 ### Fun Facts
 Dr Seuss is from San Diego
