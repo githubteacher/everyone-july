@@ -9,6 +9,7 @@
 
 ### Places to Go
 - Balboa Park
+- Legoland
 - Coronado Island
 - The San Diego Zoo (we have Pandas)
 
