@@ -5,7 +5,7 @@
 - Eisbach
 - English garden
 
-  ### places to eat
+### places to eat
 
 - Augustiner
 
