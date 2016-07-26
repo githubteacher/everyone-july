@@ -5,6 +5,6 @@
 -Eden Center(Great Pho!)
 ### Places to go
 -The historic Falls Church
--Visit the State Theater
+-The State Theater
 ### Places to avoid
 
