@@ -8,6 +8,7 @@
 
 ### Places to Go
 - Balboa Park
+- Coronado Island
 
 ### Places to Avoid
 - Encontro
