@@ -2,7 +2,6 @@
 
 ### Fun Facts
 - Named after Long's Peak (14k elevation)
-- ~5k elevation
 
 ### Places to Eat
 - Dickens Tavern, Downtown Longmont
