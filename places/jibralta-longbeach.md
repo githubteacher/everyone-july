@@ -14,5 +14,6 @@
 - the pier to go fishing with my little nephew 
 
 ### Places to Avoid
+- long lines
 
 
