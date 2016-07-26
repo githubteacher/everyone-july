@@ -5,6 +5,7 @@
 
 ### Places to Eat
 - Dickens Tavern, Downtown Longmont
+- Everest Restaurant
 
 ### Places to Go
 - A lot of great local parks.
