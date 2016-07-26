@@ -8,6 +8,7 @@
 
 ### Places to Go
 - Ohio Stadium
+- Nationwide Arena
 
 ### Places to Avoid
 - I-70 between 4PM and 6PM Weekdays
