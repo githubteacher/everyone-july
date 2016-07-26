@@ -5,6 +5,7 @@
 
 ### Places to eat
  - McDonalds
+ - Taco Bell
 
 ### Places to go
  - Air conditioned venues
