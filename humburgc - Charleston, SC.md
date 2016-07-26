@@ -1,7 +1,7 @@
 ## Charleston, SC
 
 ### Fun Facts
-
+- beaches
 ### Places to Eat
 
 ### Places to Go
@@ -9,4 +9,3 @@
 - Drayton Hall
 
 ### Places to Avoid
-
