@@ -5,6 +5,7 @@
 
 ### Places to eat
 - Salitre
+- Metropol
 
 ### Places to go
 - Window Cave
