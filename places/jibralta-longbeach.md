@@ -2,6 +2,7 @@
 
 ### Fun Facts
 - The Queen Mary is docked here.
+- home to world's largest mural - PLANET OCEAN
 
 ### Places to Eat
 - Nomad Bistro
@@ -12,3 +13,4 @@
 - The Beach!!
 
 ### Places to Avoid
+- long lines
