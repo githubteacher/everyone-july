@@ -11,6 +11,7 @@
 - The Libertine
 - Any pub on any street
 - Any Indian restaurant on Brick Lane
+- The Shakespeare
 
 ### Places to Go
 - Parliament
