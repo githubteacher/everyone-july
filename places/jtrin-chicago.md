@@ -1,9 +1,9 @@
-## Pewaukee, WI
+## Chicago, IL
 
 ### Fun Facts
 
 ### Places to Eat
-
-### Places to Go
+- Latinicity
+### Places to go
 
 ### Places to Avoid
