@@ -18,6 +18,7 @@
 ### Places to Go
 - The Alley Theatre
 - Dicey Rileys
+- Barrontop Farm
 
 ### Places to Avoid
 - The Head of the Town
