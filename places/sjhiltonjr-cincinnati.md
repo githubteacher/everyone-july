@@ -6,6 +6,7 @@
 ### Places to Eat
 - Eli' BBQ
 - Precinct Steakhouse
+- Montgomery Inn Boathouse
 
 ### Places to Go
 - Kings Island Amusement Park
