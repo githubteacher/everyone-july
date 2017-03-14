@@ -1,12 +1,17 @@
-## munich, BY
+# munich, BY
 
-### fun facts
+## fun facts
+
 - Eisbach
 - English garden
+
 ### places to eat
+
 - Augustiner
 
-### places to go
-- Hofgarten
+## places to go
 
-### places to avoid
+- Hofgarten
+- Deutsches Museum
+
+## places to avoid
